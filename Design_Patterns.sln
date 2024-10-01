@@ -5,7 +5,7 @@ VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design_Patterns.Singleton", "Design_Patterns.Singleton\Design_Patterns.Singleton.csproj", "{9DD4BDA2-6723-4D72-8DD0-CF824C048E92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design_Patterns.FactoryMethod", "Design_Patterns.FactoryMethod\Design_Patterns.FactoryMethod.csproj", "{AE0A370F-F6DE-47A7-B050-870BCFDF6C25}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Design_Patterns.SimpleFactory", "Design_Patterns.FactoryMethod\Design_Patterns.SimpleFactory.csproj", "{AE0A370F-F6DE-47A7-B050-870BCFDF6C25}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

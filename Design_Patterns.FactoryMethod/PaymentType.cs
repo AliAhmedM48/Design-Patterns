@@ -1,4 +1,4 @@
-﻿namespace Design_Patterns.FactoryMethod;
+﻿namespace Design_Patterns.SimpleFactory;
 
 internal enum PaymentType
 {
