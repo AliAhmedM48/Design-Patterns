@@ -4,6 +4,7 @@ internal class Logger
 {
     private static Logger? instance = null;
     private string logFilePath = "app.log";
+    private static readonly object _lock = new object();
 
     private Logger()
     {
@@ -17,7 +18,13 @@ internal class Logger
     {
         if (instance is null)
         {
-            instance = new Logger();
+            lock (_lock)
+            {
+                if (instance is null)
+                {
+                    instance = new Logger();
+                }
+            }
         }
         return instance;
     }
