@@ -11,6 +11,6 @@ internal class Program
         var calculator = new Calculator(new AdditionStrategy());
         Console.WriteLine($"Addtion: {calculator.ExecuteOperation(5, 6)}");
         calculator.SetStrategy(new SubtractionStrategy());
-        Console.WriteLine($"Addtion: {calculator.ExecuteOperation(5, 6)}");
+        Console.WriteLine($"Subtraction: {calculator.ExecuteOperation(5, 6)}");
     }
 }
