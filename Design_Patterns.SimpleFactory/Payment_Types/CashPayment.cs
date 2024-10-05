@@ -1,4 +1,4 @@
-﻿namespace Design_Patterns.SimpleFactory;
+﻿namespace Design_Patterns.SimpleFactory.Payment_Types;
 
 internal class CashPayment : IPayment
 {
