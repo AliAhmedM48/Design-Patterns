@@ -1,4 +1,4 @@
-﻿namespace Design_Patterns.SimpleFactory.Payment_Types;
+﻿namespace Design_Patterns.Creational.SimpleFactory.Payment_Types;
 
 internal class CreditCardPayment : IPayment
 {

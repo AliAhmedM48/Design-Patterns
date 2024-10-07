@@ -1,6 +1,6 @@
-﻿using Design_Patterns.Strategy.Strategies;
+﻿using Design_Patterns.Behavioral.Strategy.Strategies;
 
-namespace Design_Patterns.Strategy;
+namespace Design_Patterns.Behavioral.Strategy;
 
 internal class Program
 {

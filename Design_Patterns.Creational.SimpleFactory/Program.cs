@@ -1,5 +1,4 @@
-﻿namespace Design_Patterns.SimpleFactory;
-
+﻿namespace Design_Patterns.Creational.SimpleFactory;
 
 internal class Program
 {

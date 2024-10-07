@@ -1,4 +1,4 @@
-﻿namespace Design_Patterns.Strategy.Strategies;
+﻿namespace Design_Patterns.Behavioral.Strategy.Strategies;
 
 internal class SubtractionStrategy : IOperationStrategy
 {

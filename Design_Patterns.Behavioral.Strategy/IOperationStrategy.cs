@@ -1,4 +1,4 @@
-﻿namespace Design_Patterns.Strategy;
+﻿namespace Design_Patterns.Behavioral.Strategy;
 
 internal interface IOperationStrategy
 {

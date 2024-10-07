@@ -1,4 +1,4 @@
-﻿namespace Design_Patterns.Singleton;
+﻿namespace Design_Patterns.Creational.Singleton;
 
 internal class Singleton
 {
