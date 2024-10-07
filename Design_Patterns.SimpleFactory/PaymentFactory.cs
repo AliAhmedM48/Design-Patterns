@@ -1,4 +1,6 @@
-﻿namespace Design_Patterns.SimpleFactory;
+﻿using Design_Patterns.SimpleFactory.Payment_Types;
+
+namespace Design_Patterns.SimpleFactory;
 
 internal class PaymentFactory
 {
